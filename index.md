@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Resume
 
-You can use the [editor on GitHub](https://github.com/Nezumisan/TU107/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### องอร สุริโย
+ongon.sur@dome.tu.ac.th
 
-### Markdown
+### ข้อมูลส่วนตัว
+- ชื่อ : นางสาวองอร สุริโย 
+- วันเกิด : 28 ตุลาคม 2545
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### การศึกษา
+- 2564 กำลังศึกษาระดับปริญญาตรี วิทยาศาสตรบัณฑิต สาขาวิชาวิทยาศาสตร์และนวัตกรรมข้อมูล มหาวิทยาลัยธรรมศาสตร์
+- 2563-2561 ศึกษาระดับมัธยมตอนปลาย แผนการเรียนวิทย์-คณิต โรงเรียนพัทลุง จังหวัดพัทลุง
+- 2560-2558 ศึกษาระดับมัธยมตอนต้น โรงเรียนพัทลุง จังหวัดพัทลุง
 
-# Header 1
-## Header 2
-### Header 3
+### ผลงานระหว่างเรียน
+- พนักงานฝ่ายการเงิน ธนาคารออมสินของโรงเรียน![image](https://user-images.githubusercontent.com/94995449/143314207-bb9ad5ea-ff49-40da-87ad-cb7fa52c7ca0.png)
 
-- Bulleted
-- List
+- Staff ฝ่ายเชียร์สีชมพูดาราดิลก และคณะกรรมการกลางการตัดสินกองเชียร์ ![image](https://user-images.githubusercontent.com/94995449/143315399-37be6958-0acb-4dd4-a23a-26b250f44f93.png)
 
-1. Numbered
-2. List
+- ทดสอบแข่งขันคณิตศาสตร์ได้ลำดับที่ 1 ของจังหวัดพัทลุง![image](https://user-images.githubusercontent.com/94995449/143314342-12ea540f-f118-4a77-84b6-47214f1f4016.png)
 
-**Bold** and _Italic_ and `Code` text
+- โอลิมปิกวิชาการ (สอวน.) สาขาวิชาฟิสิกส์ ค่ายที่ 1![image](https://user-images.githubusercontent.com/94995449/143314121-eb888662-1b9c-4479-8b01-fa18120c0190.png)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nezumisan/TU107/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
