@@ -1,5 +1,7 @@
 ## องอร สุริโย
 Ong'on Suriyo
+- ![IMG_1861 (1) 2](https://user-images.githubusercontent.com/94995449/143618359-fda2e10f-7e92-4269-bd76-b608b2cd0b8c.png)
+
 
 ### ข้อมูลส่วนตัว
 - ชื่อ : นางสาวองอร สุริโย 
@@ -26,6 +28,8 @@ Ong'on Suriyo
 - พนักงานฝ่ายการเงิน ธนาคารออมสินของโรงเรียน![image](https://user-images.githubusercontent.com/94995449/143314207-bb9ad5ea-ff49-40da-87ad-cb7fa52c7ca0.png)
 
 - Staff ฝ่ายเชียร์สีชมพูดาราดิลก และคณะกรรมการกลางการตัดสินกองเชียร์ ![image](https://user-images.githubusercontent.com/94995449/143315399-37be6958-0acb-4dd4-a23a-26b250f44f93.png)
+
+- เข้าร่วมกิจกรรมตอบคำถามสัปดาห์วิทยาศาสตร์ของคณะวิทยาศาตร์ มหาวิทยาลัยสงขลานครินทร์ ![image](https://user-images.githubusercontent.com/94995449/143618120-05e806aa-f1f0-41ac-a0e1-473f578341e4.png)
 
 ### ผลงานระหว่างเรียน
 - ทดสอบแข่งขันคณิตศาสตร์ได้ลำดับที่ 1 ของจังหวัดพัทลุง![image](https://user-images.githubusercontent.com/94995449/143314342-12ea540f-f118-4a77-84b6-47214f1f4016.png)
