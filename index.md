@@ -1,6 +1,5 @@
 ## องอร สุริโย
-Ong'on Suriyo
-- ![IMG_1861 (1) 2](https://user-images.githubusercontent.com/94995449/143618359-fda2e10f-7e92-4269-bd76-b608b2cd0b8c.png)
+![IMG_1861 (1) 2](https://user-images.githubusercontent.com/94995449/143618359-fda2e10f-7e92-4269-bd76-b608b2cd0b8c.png)
 
 
 ### ข้อมูลส่วนตัว
